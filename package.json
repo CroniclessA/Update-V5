@@ -1,13 +1,13 @@
 {
-  "name": "Haruka-Md",
+  "name": "Juna Bot-Md",
   "version": "11.0.0",
   "description": "whatsapp tob with multi device.",
-  "main": "haruka.js",
+  "main": "juna.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "start": "node haruka.js"
+    "start": "node juna.js"
   },
   "keywords": [
     "termux",
@@ -15,10 +15,10 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "JunaSelebew",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
+    "@adiwajshing/baileys" : "npm:@whiskeysockets/baileys@6.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^8.0.0",
